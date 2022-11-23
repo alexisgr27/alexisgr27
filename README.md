@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 I am a student of the Systems Engineering career. 
 I hope to help other developers and also learn from them.
